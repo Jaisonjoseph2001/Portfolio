@@ -12,7 +12,7 @@ const Navbar = () => {
       </div>
       <div className="mx-8 flex items-center justify-center gap-6 text-2xl text-white">
         
-        <a href="https://linkedin.com/in/jerry-james-" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/jaison-jacob-491731227/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin className="hover:bg-white rounded hover:text-sky-500 transition-colors duration-300" />
         </a>
 

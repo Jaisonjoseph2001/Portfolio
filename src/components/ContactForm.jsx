@@ -33,11 +33,16 @@ const ContactForm = () => {
 
       if (data.success) {
         setResult("Form Submitted Successfully");
-        event.target.reset();
         Swal.fire({
           title: "Success!",
           text: "Message sent successfully",
           icon: "success",
+        });
+        setFormData({
+          fullname: "",
+          email: "",
+          subject: "",
+          message: "",
         });
       } else {
         console.log("Error", data);
