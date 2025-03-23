@@ -20,7 +20,7 @@ const Navbar = () => {
           <FaGithub className="text-white hover:text-black rounded-full hover:bg-white transition-colors duration-300" />
         </a>
 
-        <a href="https://www.instagram.com/j_a_i_s_o_n?igsh=NGJ6MHY2b3h6b2I0" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/_j_a_i_s_o_n_____/" target="_blank" rel="noopener noreferrer">
           <FaInstagram className="text-pink-500 hover:text-orange-500 transition-colors duration-300 " />
         </a>
 
